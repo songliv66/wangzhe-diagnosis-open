@@ -1,0 +1,6 @@
+interface:
+  display_name: "王者问卷诊断"
+  short_description: "将问卷自述变成可核对的训练建议，并生成中文 MD、PDF 和高清 PNG 报告"
+  default_prompt: "使用 $wangzhe-diagnosis-open 阅读我的王者荣耀问卷，先核对证据与缺失，再给训练建议并导出报告。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+outputs/
+coach.local.json
+.DS_Store

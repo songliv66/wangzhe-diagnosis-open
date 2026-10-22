@@ -1,0 +1,10 @@
+{
+  "case_id": "03-ambiguous",
+  "status": "needs_clarification",
+  "missing_core_fields": [],
+  "conflicts": [
+    "练习时间同时写每日 0 分钟与每周非零小时，需确认口径"
+  ],
+  "evidence_scope": "仅问卷自述；检查器未读取录像，也不验证答卷真实性",
+  "limitations": "自动冲突检查仅覆盖输入契约列出的明确模式，人工仍需核查"
+}

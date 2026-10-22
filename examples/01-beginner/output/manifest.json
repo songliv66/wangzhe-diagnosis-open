@@ -1,0 +1,34 @@
+{
+  "format_version": 1,
+  "order_id": "01-beginner",
+  "created_utc": "2026-10-22T15:24:38.289138+00:00",
+  "source_sha256": "2c2b76ce9fe7e8e87e666d04b9eb75b88528cec86c85fdda30e00a491dd31b0d",
+  "profile_sha256": "37bf095e40075f5f303c18e6658703197c4eeb53d7188304c53c2d0c5c3cd275",
+  "font_sha256": "b4f4fad746997165bf9c2189f7d52c49aea0645276e654e471d8751d60932d75",
+  "png_size": [
+    2160,
+    3633
+  ],
+  "pdf_text_coverage": true,
+  "diagnosis_origin": "模型或教练预先撰写；本工具仅排版，不自动诊断",
+  "versions": {
+    "python": "3.12.14",
+    "reportlab": "4.4.9",
+    "pillow": "12.3.0",
+    "pypdf": "6.10.0"
+  },
+  "files": {
+    "report.md": {
+      "bytes": 2985,
+      "sha256": "2c2b76ce9fe7e8e87e666d04b9eb75b88528cec86c85fdda30e00a491dd31b0d"
+    },
+    "report.pdf": {
+      "bytes": 81455,
+      "sha256": "80f6acfcf59c5b80a33c0fe39dbc9bf3b19d7c61f790c296cfaa2b72659e8cb7"
+    },
+    "report.png": {
+      "bytes": 872473,
+      "sha256": "cc08e5d729a2cdb3465662ab1041e46a1ed6d1c6e6a8bc2afcada93c2c4d87a3"
+    }
+  }
+}

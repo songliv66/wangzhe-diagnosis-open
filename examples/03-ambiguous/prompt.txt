@@ -1,0 +1,1 @@
+使用 $wangzhe-diagnosis-open。请阅读本目录 input.json 的合成答卷：先说明证据范围与影响建议的缺失或冲突，再给可执行训练建议。没有录像不要描述已观察到的操作，不承诺上分。把报告导出到一个新目录，署名及联系使用 config/coach.example.json。
